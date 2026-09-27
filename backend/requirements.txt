@@ -4,3 +4,6 @@ pydantic
 requests
 pytest
 httpx
+litellm
+transformers
+torch
